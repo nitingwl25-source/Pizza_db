@@ -43,7 +43,7 @@ The overall dashboard reports the following metrics for January–December 2015:
 
 This dashboard provides a high-level overview of sales performance, including KPIs, daily and monthly order trends, category-wise revenue contribution, pizza-size distribution, and quantity sold by category.
 
-![Pizza Sales Overview Dashboard](images/pizza_dashboard%201.PNG)
+![Pizza Sales Overview Dashboard](pizza_dashboard%201.PNG)
 
 **Key features:**
 - KPI cards for revenue, orders, pizzas sold, average order value, and average pizzas per order.
