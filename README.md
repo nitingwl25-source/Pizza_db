@@ -36,7 +36,6 @@ The overall dashboard reports the following metrics for January–December 2015:
 | Average Order Value | 38.31 |
 | Average Pizzas per Order | 2.32 |
 
-*The currency unit is not specified in the dashboard.*
 
 ## 📈 Power BI Dashboards
 
@@ -109,32 +108,6 @@ Based on the displayed dashboards:
 
 These findings can support sales planning, product-level performance reviews, inventory decisions, and promotional strategies.
 
-## 📁 Repository Structure
-
-```text
-Pizza-Sales-Analysis/
-│
-├── README.md
-├── sql/
-│   └── pizza_sales_analysis.sql
-├── powerbi/
-│   └── pizza_sales_dashboard.pbix
-└── images/
-    ├── pizza_dashboard.png
-    └── pizza_dashboard2.png
-```
-
-*Update the filenames if your uploaded files use different names.*
-
-## 🚀 How to Use This Project
-
-1. Clone or download this repository.
-2. Open the SQL script in PostgreSQL using pgAdmin or another PostgreSQL client.
-3. Connect to the database containing the pizza sales dataset.
-4. Run the queries to reproduce the sales analysis.
-5. Open the Power BI `.pbix` file in Power BI Desktop.
-6. If prompted, configure the data source connection to match your environment.
-7. Use the dashboard filters to explore sales trends and product performance.
 
 ## 📚 Skills Demonstrated
 
