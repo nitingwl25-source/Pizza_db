@@ -58,7 +58,7 @@ This dashboard provides a high-level overview of sales performance, including KP
 
 This dashboard focuses on product-level performance and allows users to filter results by pizza category.
 
-![Pizza Best and Worst Sellers Dashboard](pizza_dashboard%202.PNG)
+![Pizza Best and Worst Sellers Dashboard](images/pizza_dashboard2.PNG)
 
 **Key features:**
 - Top 5 pizzas by revenue.
